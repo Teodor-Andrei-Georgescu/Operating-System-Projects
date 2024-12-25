@@ -1,0 +1,35 @@
+[00001] id=0001 NEW
+[00001] IDLE
+[00002] id=0001 req=17 used=1 queue=1
+[00003] id=0001 req=17 used=2 queue=1
+[00004] id=0001 req=17 used=3 queue=2
+[00005] id=0001 req=17 used=4 queue=2
+[00006] id=0001 req=17 used=5 queue=2
+[00007] id=0002 NEW
+[00007] id=0001 req=17 used=6 queue=2
+[00008] id=0002 req=1 used=1 queue=1
+[00009] id=0001 req=17 used=7 queue=3
+[00010] id=0001 req=17 used=8 queue=3
+[00011] id=0001 req=17 used=9 queue=3
+[00012] id=0001 req=17 used=10 queue=3
+[00013] id=0003 NEW
+[00013] id=0001 req=17 used=11 queue=3
+[00014] id=0003 req=6 used=1 queue=1
+[00015] id=0003 req=6 used=2 queue=1
+[00016] id=0003 req=6 used=3 queue=2
+[00017] id=0003 req=6 used=4 queue=2
+[00018] id=0002 req=1 used=1 queue=1
+[00019] id=0003 req=6 used=5 queue=2
+[00020] id=0003 req=6 used=6 queue=2
+[00021] id=0003 EXIT wt=1 tat=7
+[00021] id=0001 req=17 used=12 queue=3
+[00022] id=0001 req=17 used=13 queue=3
+[00023] id=0001 req=17 used=14 queue=3
+[00024] id=0002 req=1 used=1 queue=1
+[00025] id=0002 EXIT wt=0 tat=3
+[00025] BOOST
+[00025] id=0001 req=17 used=15 queue=1
+[00026] id=0001 req=17 used=16 queue=1
+[00027] id=0001 req=17 used=17 queue=2
+[00028] id=0001 EXIT wt=9 tat=26
+[00028] IDLE

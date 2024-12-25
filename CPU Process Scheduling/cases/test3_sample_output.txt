@@ -1,0 +1,48 @@
+[00001] id=0001 NEW
+[00001] IDLE
+[00002] id=0002 NEW
+[00002] id=0001 req=15 used=1 queue=1
+[00003] id=0003 NEW
+[00003] id=0001 req=15 used=2 queue=1
+[00004] id=0004 NEW
+[00004] id=0002 req=12 used=1 queue=1
+[00005] id=0002 req=12 used=2 queue=1
+[00006] id=0003 req=5 used=1 queue=1
+[00007] id=0003 req=5 used=2 queue=1
+[00008] id=0001 req=15 used=3 queue=2
+[00009] id=0001 req=15 used=4 queue=2
+[00010] id=0001 req=15 used=5 queue=2
+[00011] id=0001 req=15 used=6 queue=2
+[00012] id=0002 req=12 used=3 queue=2
+[00013] id=0002 req=12 used=4 queue=2
+[00014] id=0002 req=12 used=5 queue=2
+[00015] id=0002 req=12 used=6 queue=2
+[00016] id=0003 req=5 used=3 queue=2
+[00017] id=0003 req=5 used=4 queue=2
+[00018] id=0003 req=5 used=5 queue=2
+[00019] id=0001 req=15 used=7 queue=3
+[00020] id=0001 req=15 used=8 queue=3
+[00021] id=0001 req=15 used=9 queue=3
+[00022] id=0003 req=2 used=1 queue=2
+[00023] id=0003 req=2 used=2 queue=2
+[00024] id=0002 req=12 used=7 queue=3
+[00025] BOOST
+[00025] id=0002 req=12 used=8 queue=1
+[00026] id=0002 req=12 used=9 queue=1
+[00027] id=0001 req=15 used=10 queue=1
+[00028] id=0001 req=15 used=11 queue=1
+[00029] id=0002 req=12 used=10 queue=2
+[00030] id=0002 req=12 used=11 queue=2
+[00031] id=0002 req=12 used=12 queue=2
+[00032] id=0001 req=15 used=12 queue=2
+[00033] id=0001 req=15 used=13 queue=2
+[00034] id=0001 req=15 used=14 queue=2
+[00035] id=0001 req=15 used=15 queue=2
+[00036] id=0001 EXIT wt=19 tat=34
+[00036] IDLE
+[00037] id=0002 EXIT wt=17 tat=29
+[00037] IDLE
+[00038] id=0003 EXIT wt=10 tat=17
+[00038] IDLE
+[00039] id=0004 EXIT wt=0 tat=0
+[00039] IDLE

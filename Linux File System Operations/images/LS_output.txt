@@ -1,0 +1,30 @@
+ls360fs output for disk03.img
+
+     159 2022-Jul-14 15:20:12 alphabet_short.txt
+      93 2022-Jul-14 15:20:12 digits_short.txt
+
+===================================================================
+
+ls360fs output for disk04.img
+
+     159 2022-Jul-14 15:20:26 alphabet_short.txt
+    6784 2022-Jul-14 15:20:26 alphabet.txt
+      93 2022-Jul-14 15:20:26 digits_short.txt
+   18228 2022-Jul-14 15:20:26 digits.txt
+
+===================================================================
+
+ls360fs output for disk05.img
+
+     700 2022-Jul-14 15:20:54 sonnet116.txt
+  180833 2022-Jul-14 15:20:54 graphic01.jpg
+    1079 2022-Jul-14 15:20:54 donne.txt
+   40743 2022-Jul-14 15:20:54 graphic02.jpg
+     738 2022-Jul-14 15:20:54 sonnet023.txt
+  103468 2022-Jul-14 15:20:54 macbeth.txt
+  115234 2022-Jul-14 15:20:54 graphic04.jpg
+  123619 2022-Jul-14 15:20:54 loves_labours_lost.txt
+   90780 2022-Jul-14 15:20:54 graphic03.jpg
+  314159 2022-Jul-14 15:20:54 random01.bin
+     741 2022-Jul-14 15:20:54 sonnet018.txt
+
