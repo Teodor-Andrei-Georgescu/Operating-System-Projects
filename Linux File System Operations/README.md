@@ -2,5 +2,6 @@ This project covered reading file images and performing certain Linux operations
 
 For all the exact details and specifics, please read the PDF.
 
+Remember to compile all files first by typing **make**
 As for running the commands: **./<ls, stat 360fs.c> --image images/<file.img>**
-and **./cat360fs.c --image images/<file.img> --file <file.txt**
+and **./cat360fs.c --image images/<file.img> --file <file.txt>**

@@ -4,4 +4,4 @@ For the exact specifications, please read the PDF.
 
 The main project is the **mlfq** file; the other files are helpers.
 
-To run the project, please just dor **./mlfw cases/<testcase.txt>**.
+To run the project, please just do  **make** then **./mlfq cases/<testcase.txt>**.

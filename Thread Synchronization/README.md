@@ -2,6 +2,6 @@ This project used thread synchronization to control the creation of Kosmos-Ethyn
 
 There are two versions of this project: one done through mutexs (Kosmos-mcv) and one doone through semaphores (Kosmos-sem).
 
-Before running the programs, the make file must be run first.
+Before running the programs, the make file must be run first via; **make**.
 
 For all exact specifications and details, as well as the expected outcome, please read the PDF.

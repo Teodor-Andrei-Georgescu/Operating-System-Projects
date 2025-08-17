@@ -11,8 +11,8 @@
 #define LOG_MAX_LINES 100
 #define LOG_MAX_LINE_LEN 80
 
-char kosmos_log[LOG_MAX_LINES][LOG_MAX_LINE_LEN];
-unsigned char kosmos_log_numlines;
+static char kosmos_log[LOG_MAX_LINES][LOG_MAX_LINE_LEN];
+static unsigned char kosmos_log_numlines;
 
 void kosmos_log_init(void);
 void kosmos_log_dump(void);
